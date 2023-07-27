@@ -2,7 +2,7 @@ Status = "";
 LightBulb_image = "";
 
 function preload(){
-    LightBulb_image = loadImage("Light Bulb.jpg");
+    LightBulb_image = loadImage("Light_Bulb.jpg");
 }
 
 function setup(){
